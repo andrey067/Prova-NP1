@@ -1,0 +1,32 @@
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\appsettings.Development.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\appsettings.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Database\Habilitado.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.exe
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.deps.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.runtimeconfig.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.runtimeconfig.dev.json
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\ref\Prova NP1.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Prova NP1.pdb
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\AutoMapper.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.AssemblyInfoInputs.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.AssemblyInfo.cs
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.csproj.CoreCompileInputs.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.MvcApplicationPartsAssemblyInfo.cs
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.MvcApplicationPartsAssemblyInfo.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\staticwebassets\Prova NP1.StaticWebAssets.Manifest.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\staticwebassets\Prova NP1.StaticWebAssets.xml
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\scopedcss\bundle\Prova NP1.styles.css
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.RazorTargetAssemblyInfo.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.csproj.CopyComplete
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\ref\Prova NP1.dll
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.pdb
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.genruntimeconfig.cache
+F:\Google Drive 2\TADS\5º Semestre\Devesenvolvimento Web\Prova NP1\Prova NP1\obj\Debug\net5.0\Prova NP1.csprojAssemblyReference.cache
