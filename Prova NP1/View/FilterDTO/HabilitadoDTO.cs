@@ -15,7 +15,7 @@
         public int AIdade { get; set; }
 
 
-         
+
         public HabilitadoDTO() { }
 
         public HabilitadoDTO(int aId, string aNome, string aCPF, string aTelefone, string aEmail, int aIdade)

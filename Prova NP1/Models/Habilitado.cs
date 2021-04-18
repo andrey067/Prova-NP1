@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Prova_NP1.Models
+﻿namespace Prova_NP1.Models
 {
     public class Habilitado
     {
