@@ -408,11 +408,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova NP1\\Prova NP1\\Prova NP1.csproj",
+      "projectUniqueName": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova_1\\Prova NP1\\Prova NP1.csproj",
       "projectName": "Prova NP1",
-      "projectPath": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova NP1\\Prova NP1\\Prova NP1.csproj",
+      "projectPath": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova_1\\Prova NP1\\Prova NP1.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova NP1\\Prova NP1\\obj\\",
+      "outputPath": "F:\\Google Drive 2\\TADS\\5º Semestre\\Devesenvolvimento Web\\Prova_1\\Prova NP1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

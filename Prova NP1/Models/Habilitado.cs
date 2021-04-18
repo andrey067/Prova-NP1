@@ -16,6 +16,7 @@ namespace Prova_NP1.Models
 
         public int AIdade { get; private set; }
 
+        protected Habilitado() { }
 
         public Habilitado(string aNome, string aCPF, string aTelefone, string aEmail, int aIdade)
         {
